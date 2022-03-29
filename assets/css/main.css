@@ -150,6 +150,10 @@ input, select, textarea {
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
+			
+			.skills{
+				font-size: 2rem;
+			}
 
 		}
 
