@@ -343,6 +343,13 @@ input, select, textarea {
 		margin: 2em 0;
 	}
 
+	hr.divider {
+		border: none;
+		height: 1px;
+		background-color: #ffffff; 
+		margin: 20px 0; 
+	  }
+
 		hr.major {
 			margin: 3em 0;
 		}
